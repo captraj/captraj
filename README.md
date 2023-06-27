@@ -7,7 +7,7 @@ Are you ready for a blend of technology, innovation, and a dash of adventure? Lo
 ## About Me
 With a diverse skill set that encompasses popular technologies like Python, NodeJS, React, and more, I fearlessly dive into the realms of IoT, ML, APIs, web apps, AR, and VR. 🌟 But my appetite for knowledge doesn't stop there. Every day, I embark on a quest to learn new tech stacks, challenging myself to expand my horizons and conquer uncharted territories. 🚀📚
 
-It's not just about staying ahead of the curve; it's about embracing the thrill of discovery. When I'm not immersed in the ever-evolving world of technology, you'll find me pedaling away on my trusty bicycle 🚴, where the open roads inspire me to think differently and unlock fresh perspectives. 🌈
+It's not just about staying ahead of the curve; it's about embracing the thrill of discovery. When I'm not immersed in the ever-evolving world of technology, you'll find me pedaling away on my trusty bicycle 🚴, where the open roads inspire me to think differently and unlock fresh perspectives. 
 
 ## Secret Ingredient
 But here's the secret ingredient that sets me apart – my dedication to continuous growth and the pursuit of excellence. I am committed to sharpening my skills, whether through online courses, attending tech conferences, or collaborating with industry experts. 🌱🚀 I thrive on the excitement of being at the forefront of technological advancements and leveraging emerging trends to create innovative solutions that drive positive change. ✨🔥
