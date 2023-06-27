@@ -17,9 +17,7 @@ Join me on this exhilarating journey of constant learning and growth. Together, 
 
 ## Get in Touch
 📫 You can reach out to me through the following channels:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio Website: [Your Portfolio Website](https://www.yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/biswaraj-choudhury/))
 
 I'm always open to new opportunities, collaborations, and exciting projects. Feel free to connect with me and let's create something amazing together!
 
