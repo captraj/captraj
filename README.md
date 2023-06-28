@@ -1,6 +1,8 @@
 ## Hi there! Welcome to my GitHub Profile! 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=captraj&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captraj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Are you ready for a blend of technology, innovation, and a dash of adventure? Look no further! I am an aspiring tech enthusiast, driven by an insatiable curiosity and an unwavering passion for innovation. 🚀💡
 
